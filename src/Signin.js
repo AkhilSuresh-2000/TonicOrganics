@@ -1,0 +1,12 @@
+import React from 'react'
+
+export default function Signin() {
+
+    alert("Success")
+    return (
+        <div>
+             <h1>Signin</h1>
+
+        </div>
+    )
+}
